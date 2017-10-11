@@ -1,0 +1,7 @@
+C:\Users\sharon\source\repos\TestIO\TestIO\bin\Debug\TestIO.exe.config
+C:\Users\sharon\source\repos\TestIO\TestIO\bin\Debug\TestIO.exe
+C:\Users\sharon\source\repos\TestIO\TestIO\bin\Debug\TestIO.pdb
+C:\Users\sharon\source\repos\TestIO\TestIO\obj\Debug\TestIO.csprojResolveAssemblyReference.cache
+C:\Users\sharon\source\repos\TestIO\TestIO\obj\Debug\TestIO.csproj.CoreCompileInputs.cache
+C:\Users\sharon\source\repos\TestIO\TestIO\obj\Debug\TestIO.exe
+C:\Users\sharon\source\repos\TestIO\TestIO\obj\Debug\TestIO.pdb
